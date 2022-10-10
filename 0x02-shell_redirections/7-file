@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'hi' > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+echo 'hi' > '\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)'
